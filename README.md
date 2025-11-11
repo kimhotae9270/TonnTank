@@ -1,5 +1,3 @@
-![myrecord_small](https://github.com/user-attachments/assets/d2bfa3a6-f0e8-406d-a57e-dcf039df5690)
-
 
 # 🎮 ToonTanks (UE C++)
 
@@ -47,3 +45,7 @@ AToonTanksPlayerController - 입력 토글/마우스 커서 표시 제어
 ---
 
 ## 🏗️ 빌드 & 실행(언리얼 에디터)
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d2bfa3a6-f0e8-406d-a57e-dcf039df5690" alt="myrecord_small" width="600"/>
+</p>
